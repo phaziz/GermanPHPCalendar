@@ -1,0 +1,8 @@
+table{margin: 25px auto;border: 1px solid #000;background:#fff;width:100%;}
+th{color:#000 !important;background:#fff;border:1px solid #fff}
+td{height: 100px; width: 100px;border: 1px solid #fff;}
+td{background: #000;color:#fff !important;}
+td.empty{background: #000;}
+td.active{background: #fff;color:#000 !important;}
+td.active small{background: #fff;color:#000 !important;}
+.margin-top-25{margin-top: 25px;}
